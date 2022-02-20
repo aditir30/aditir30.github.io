@@ -208,8 +208,9 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1.25rem;
+		font-size: 1.2rem;
 		margin: 0 0 1.5rem 0;
+		text-transform: capitalize;
 	}
 
 	h4 {
